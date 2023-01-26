@@ -11,3 +11,9 @@ h1 {
     font-family: 'Fredoka One', cursive;
 
 }
+
+ol>li:last-child {
+
+    color: crimson;
+
+}
