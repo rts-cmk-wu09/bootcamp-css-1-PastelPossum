@@ -17,3 +17,18 @@ ol>li:last-child {
     color: crimson;
 
 }
+
+p {
+
+    float:right;
+
+}
+
+img {
+
+float:left;
+
+}
+
+/* Float er ikke brugt til layout mere */
+
