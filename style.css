@@ -32,3 +32,20 @@ float:left;
 
 /* Float er ikke brugt til layout mere */
 
+li {
+
+    margin-bottom: 2%;
+
+}
+
+h1 {
+
+    margin-bottom: 15%;
+
+}
+
+button {
+
+    margin: 4%;
+
+}
